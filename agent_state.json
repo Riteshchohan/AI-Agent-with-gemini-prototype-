@@ -1,0 +1,41 @@
+{
+  "history": [
+    {
+      "timestamp": "2025-07-04T21:56:40.327081",
+      "analysis": {
+        "topic": "general",
+        "tone": "neutral",
+        "constraints": "",
+        "user_input": " Test prompt about technology"
+      },
+      "user_input": " Test prompt about technology"
+    },
+    {
+      "timestamp": "2025-07-04T22:56:49.805295",
+      "analysis": {
+        "topic": "general",
+        "tone": "neutral",
+        "constraints": "",
+        "user_input": "Somthing about technology"
+      },
+      "user_input": "Somthing about technology"
+    },
+    {
+      "timestamp": "2025-07-04T22:57:57.621952",
+      "analysis": {
+        "topic": "general",
+        "tone": "neutral",
+        "constraints": "",
+        "user_input": "Easy prompt for new food bloggers with quick tips"
+      },
+      "user_input": "Easy prompt for new food bloggers with quick tips"
+    }
+  ],
+  "niches": [
+    "general"
+  ],
+  "user_preferences": {
+    "tone": "friendly",
+    "complexity": "medium"
+  }
+}
